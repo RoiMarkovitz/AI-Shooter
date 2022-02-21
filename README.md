@@ -9,6 +9,8 @@ The characters make decisions depending on the situation they are in.
 The project uses the A * search algorithm to locate characters, storages and dig tunnels between rooms. 
 During the game messages to the console are being printed, regarding the data of the characters and the tasks they have chosen to perform.
 
+https://user-images.githubusercontent.com/68189545/154982554-1bd48e5c-1d20-4ce7-b92f-d7fe9fa3646f.mp4
+
 [Click to view documentation in Hebrew](/Documentation.pdf)
 
 ### Game Map
@@ -113,6 +115,3 @@ Below notes are not the focus of the project, but it is good to consider:
 - While having only one character being able to occupy a square is more realistic, performance may suffer when corridor is blocked by characters.
 
  
-
-
-
