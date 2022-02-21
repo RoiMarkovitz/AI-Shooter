@@ -1,0 +1,34 @@
+﻿  AmmoStorage.cpp
+  Astar.cpp
+  CompareCells.cpp
+  UC.cpp
+  Bullet.cpp
+  Cell.cpp
+  CreateMaze.cpp
+  GameManager.cpp
+  Grenade.cpp
+  HealthStorage.cpp
+  main.cpp
+  MazeCell.cpp
+  Player.cpp
+  Point2D.cpp
+  Room.cpp
+  Soldier.cpp
+  Storage.cpp
+  Support.cpp
+  Generating Code...
+main.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowPosition referenced in function "void __cdecl initOpenGL(int,char * * const)" (?initOpenGL@@YAXHQEAPEAD@Z)
+main.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function "void __cdecl initOpenGL(int,char * * const)" (?initOpenGL@@YAXHQEAPEAD@Z)
+main.obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function "void __cdecl initOpenGL(int,char * * const)" (?initOpenGL@@YAXHQEAPEAD@Z)
+main.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function "void __cdecl initOpenGL(int,char * * const)" (?initOpenGL@@YAXHQEAPEAD@Z)
+main.obj : error LNK2019: unresolved external symbol __imp_glutPostRedisplay referenced in function "void __cdecl idle(int)" (?idle@@YAXH@Z)
+main.obj : error LNK2019: unresolved external symbol __imp_glutSwapBuffers referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol __imp_glutAddMenuEntry referenced in function "void __cdecl initOpenGL(int,char * * const)" (?initOpenGL@@YAXHQEAPEAD@Z)
+main.obj : error LNK2019: unresolved external symbol __imp_glutAttachMenu referenced in function "void __cdecl initOpenGL(int,char * * const)" (?initOpenGL@@YAXHQEAPEAD@Z)
+main.obj : error LNK2019: unresolved external symbol __imp_glutTimerFunc referenced in function "void __cdecl idle(int)" (?idle@@YAXH@Z)
+main.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function "void __cdecl initOpenGL(int,char * * const)" (?initOpenGL@@YAXHQEAPEAD@Z)
+main.obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+main.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+main.obj : error LNK2019: unresolved external symbol __imp___glutCreateMenuWithExit referenced in function glutCreateMenu_ATEXIT_HACK
+freeglut.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Roi\OneDrive\Desktop\Shooter\x64\Debug\Shooter.exe : fatal error LNK1120: 13 unresolved externals

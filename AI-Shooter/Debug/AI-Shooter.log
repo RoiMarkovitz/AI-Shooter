@@ -1,0 +1,18 @@
+﻿  AmmoStorage.cpp
+  Astar.cpp
+  Bullet.cpp
+  Cell.cpp
+  CreateMap.cpp
+  GameManager.cpp
+  Grenade.cpp
+  HealthStorage.cpp
+  main.cpp
+  MapCell.cpp
+  Player.cpp
+  Point2D.cpp
+  Room.cpp
+  Soldier.cpp
+  Storage.cpp
+  Support.cpp
+  Generating Code...
+  AI-Shooter.vcxproj -> C:\Users\Roi\OneDrive\Desktop\AI-Shooter\Debug\AI-Shooter.exe
